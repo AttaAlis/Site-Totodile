@@ -10,4 +10,9 @@ img {
 }
 
 body    { 
-        background-color: #7FC4E8; }
+        background-color: #7FC4E8;
+        opacity: 1.75; 
+        background-image: url("HappyTotodile.png");
+        background-repeat: no-repeat; 
+        
+      }
