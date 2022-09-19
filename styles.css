@@ -4,12 +4,19 @@ h1, h2, p {
 }
 
 img { 
- width: 50%;
- 
-}
+    width: 30%;
+    margin: auto;
+    
+   }
+   
 
 .pictures {
-    width : 50%;
+    background-color: #dae1e6b7;
+    border:solid; 
+    border-color: #9cd1efb9;
+    border-width: 5px;
+    padding: 10px;
+    width: 90%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -17,10 +24,13 @@ img {
 
         }
 
+      
+
 body    { 
         background-color: #7FC4E8;
         background-image: url("Background.png");
         background-repeat: no-repeat; 
         background-position: center;
+        background-size: 100% 100;
        
       }
